@@ -1,0 +1,8 @@
+:root {
+  --color-primario: #E00034;
+  --gris: #666;
+}
+body { font-family: system-ui, sans-serif; line-height:1.6; padding:16px; }
+h1 { font-size: 1.6rem; }
+.importante { color: var(--color-primario); font-weight: 700; }
+.muted { color: var(--gris); }

@@ -1,0 +1,40 @@
+title: "Html, Css, Js"
+description: Tutorial práctico con ejemplos embebidos usando Just the Docs
+
+# ✅ Modo recomendado en GitHub Pages:
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Si tu sitio es de proyecto:
+url: "https://hubergiron.github.io"
+baseurl: "/Html-Css-Js"
+
+just_the_docs:
+  # incluir CSS adicional
+  custom_css:
+    - "assets/css/custom.css"
+  footer_content: ""
+
+search_enabled: true
+search:
+  heading_level: 2
+
+# aux_links:
+#   "Repositorio en GitHub":
+#     - "https://github.com/hubergiron/Kicad"
+nav_external_links:
+  - title: Documentación MDN
+    url: https://developer.mozilla.org/
+
+# Enlaces
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor"

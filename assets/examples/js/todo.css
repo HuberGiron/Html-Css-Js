@@ -1,0 +1,8 @@
+body { font-family: system-ui, sans-serif; margin: 0; padding: 16px; }
+.app { max-width: 520px; margin: 0 auto; }
+#todo-form { display: flex; gap: 8px; }
+#todo-input { flex: 1; padding: 8px; }
+#todo-list { list-style: none; padding-left: 0; margin-top: 12px; }
+.item { display: flex; align-items: center; gap: 8px; padding: 8px 0; border-bottom: 1px solid #eee; }
+.item.done .txt { text-decoration: line-through; color: #777; }
+.btn { border: 1px solid #ddd; background: #f8f8f8; padding: 4px 8px; cursor: pointer; }
