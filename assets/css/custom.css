@@ -299,3 +299,20 @@ footer.site-footer { display: none !important; }
   font-variant-ligatures: none;
 }
 /* ===== END NAVBAR FIX ===== */
+
+/* Tamaño y espaciado del logo en el título del sitio */
+.site-logo,
+.site-title img {
+  height: 28px;         /* ajusta a tu preferencia: 24–36px suele verse bien */
+  width: auto;
+  vertical-align: middle;
+  margin-right: .5rem;
+}
+
+/* Evita que el logo se “encime” en pantallas pequeñas */
+@media (max-width: 600px) {
+  .site-logo,
+  .site-title img {
+    height: 24px;
+  }
+}
