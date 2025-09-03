@@ -268,3 +268,34 @@ footer.site-footer { display: none !important; }
     color: #6B7280;
   }
 }
+
+/* ===== NAVBAR FIX (Just the Docs) =====
+   - Neutraliza pseudo-elementos globales en el sidebar para evitar "∞"
+   - Redibuja un bullet limpio solo en el 2º nivel
+*/
+.side-bar a::before,
+.side-bar a::after,
+.site-nav .nav-list-link::before,
+.site-nav .nav-list-link::after {
+  content: none !important;
+}
+
+/* Espacio para el bullet en hijos (nivel 2) */
+.side-bar .nav-list .nav-list-item .nav-list .nav-list-link {
+  position: relative;
+  padding-left: 1.6rem;
+}
+
+/* Bullet para nivel 2 (Unicode) */
+.side-bar .nav-list .nav-list-item .nav-list .nav-list-link::before {
+  content: "\2022" !important;      /* bullet • */
+  position: absolute;
+  left: 0.9rem;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: .6;
+  font-size: .8rem;
+  color: currentColor;
+  font-variant-ligatures: none;
+}
+/* ===== END NAVBAR FIX ===== */
