@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: CSS - Inline vs Internal vs External

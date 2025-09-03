@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: JavaScript - Inputs y formularios
