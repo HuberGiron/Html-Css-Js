@@ -39,7 +39,7 @@ a:focus { outline: 2px solid #FFD5DE; outline-offset: 2px; }
   background-color: rgba(255,255,255,0.08) !important;
 }
 
-/* (antiguo) Jerarquía simple — será mejorado al final */
+/* (antiguo) Jerarquía simple - será mejorado al final */
 .nav-list .nav-list-item .nav-list .nav-list-link { padding-left: 1.25rem; }
 
 /* Flechas (chevrons) del menú */
