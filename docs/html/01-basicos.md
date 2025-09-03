@@ -105,11 +105,16 @@ permalink: /docs/html/01-basicos/
   <meta charset="utf-8">
   <title>Atributos</title>
 </head>
-<body bgcolor="#ef634ae4">
+<body bgcolor="#f28875f2">
   <p style="color:#E00034; width:60%;">Texto con color y ancho.</p>
   <img src="ibero.png" alt="..." height="120px">
 </body>
 </html>
 ```
 <iframe src="{{ '/assets/examples/html/05_atributos.html' | relative_url }}" width="100%" height="260" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/05_atributos.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/05_atributos.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;">
+  <a class="btn" href="{{ '/assets/zips/05_atributos.zip' | relative_url }}">Descargar ZIP</a>
+  <br>
+  <img src="{{ '/assets/diagrams/05_atributos.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;">
+</div>
