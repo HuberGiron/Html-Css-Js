@@ -47,7 +47,7 @@ Mantener esta jerarquía ayuda a la **accesibilidad** (lectores de pantalla) y a
 </body>
 </html>
 ```
-<iframe src="{{ '/assets/examples/html/01_parrafos_encabezados.html' | relative_url }}" width="100%" height="260" style="border:1px solid #ddd;border-radius:8px;"></iframe>
+<iframe src="{{ '/assets/examples/html/01_parrafos.html' | relative_url }}" width="100%" height="260" style="border:1px solid #ddd;border-radius:8px;"></iframe>
 
 <div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;">
   <a class="btn" href="{{ '/assets/zips/01_parrafos_encabezados.zip' | relative_url }}">Descargar ZIP</a>
