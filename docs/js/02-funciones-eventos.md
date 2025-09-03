@@ -7,7 +7,7 @@ parent: JavaScript
 permalink: /docs/js/02-funciones-eventos
 ---
 
-# JavaScript — Variables, funciones y eventos
+# JavaScript - Variables, funciones y eventos
 
 ```html
 <!DOCTYPE html>

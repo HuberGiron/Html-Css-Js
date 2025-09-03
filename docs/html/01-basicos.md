@@ -7,7 +7,7 @@ parent: HTML
 permalink: /docs/html/01-basicos
 ---
 
-# HTML — Etiquetas básicas
+# HTML - Etiquetas básicas
 
 ## Párrafos y encabezados
 ```html

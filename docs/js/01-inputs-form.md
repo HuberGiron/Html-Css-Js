@@ -7,7 +7,7 @@ parent: JavaScript
 permalink: /docs/js/01-inputs-form
 ---
 
-# JavaScript — Inputs y formularios
+# JavaScript - Inputs y formularios
 
 ```html
 <!DOCTYPE html>

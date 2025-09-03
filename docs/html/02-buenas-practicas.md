@@ -7,7 +7,7 @@ parent: HTML
 permalink: /docs/html/02-buenas-practicas
 ---
 
-# HTML — Buenas prácticas
+# HTML - Buenas prácticas
 
 ```html
 <!DOCTYPE html>

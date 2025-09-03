@@ -7,7 +7,7 @@ parent: CSS
 permalink: /docs/css/02-basicos
 ---
 
-# CSS — Colores, tipografías y tamaños
+# CSS - Colores, tipografías y tamaños
 
 ```html
 <!DOCTYPE html>

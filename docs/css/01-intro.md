@@ -7,7 +7,7 @@ parent: CSS
 permalink: /docs/css/01-intro
 ---
 
-# CSS — Inline vs Internal vs External
+# CSS - Inline vs Internal vs External
 
 ## Inline
 ```html
