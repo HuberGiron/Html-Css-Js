@@ -30,7 +30,7 @@ permalink: /docs/js/03-mini-app/
 </html>
 ```
 <iframe src="{{ '/assets/examples/js/todo.html' | relative_url }}" width="100%" height="440" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/todo.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/todo.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/todo.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/todo.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 ### Archivos externos de este ejemplo
 **todo.css**
 ```css

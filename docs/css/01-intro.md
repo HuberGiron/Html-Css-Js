@@ -13,7 +13,7 @@ permalink: /docs/css/01-intro/
 <p style="color:#E00034; font-weight:bold;">Texto rojo (inline)</p>
 ```
 <iframe src="{{ '/assets/examples/css/01_inline.html' | relative_url }}" width="100%" height="160" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/01_inline.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/01_inline.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/01_inline.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/01_inline.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 
 
 ## Internal
@@ -36,7 +36,7 @@ permalink: /docs/css/01-intro/
 </html>
 ```
 <iframe src="{{ '/assets/examples/css/02_internal.html' | relative_url }}" width="100%" height="220" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/02_internal.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/02_internal.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/02_internal.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/02_internal.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 
 
 ## External
@@ -55,7 +55,7 @@ permalink: /docs/css/01-intro/
 </html>
 ```
 <iframe src="{{ '/assets/examples/css/03_external.html' | relative_url }}" width="100%" height="200" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/03_external.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/03_external.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/03_external.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/03_external.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 ### Archivos externos de este ejemplo
 **03_external.css**
 ```css

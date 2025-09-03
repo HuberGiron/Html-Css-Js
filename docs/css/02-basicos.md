@@ -25,7 +25,7 @@ permalink: /docs/css/02-basicos/
 </html>
 ```
 <iframe src="{{ '/assets/examples/css/04_colores_fuentes.html' | relative_url }}" width="100%" height="240" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/04_colores_fuentes.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/04_colores_fuentes.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/04_colores_fuentes.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/04_colores_fuentes.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 ### Archivos externos de este ejemplo
 **04_colores_fuentes.css**
 ```css

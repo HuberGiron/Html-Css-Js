@@ -24,7 +24,7 @@ permalink: /docs/js/02-funciones-eventos/
 </html>
 ```
 <iframe src="{{ '/assets/examples/js/funciones_vars.html' | relative_url }}" width="100%" height="260" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/funciones_vars.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/funciones_vars.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/funciones_vars.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/funciones_vars.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 ### Archivos externos de este ejemplo
 **funciones_vars.js**
 ```javascript
@@ -74,7 +74,7 @@ log(saludar('Huber'))
 </html>
 ```
 <iframe src="{{ '/assets/examples/js/dom_eventos.html' | relative_url }}" width="100%" height="280" style="border:1px solid #ddd;border-radius:8px;"></iframe>
-<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/dom_eventos.zip' | relative_url }}">Descargar ZIP del ejemplo</a><img src="{{ '/assets/diagrams/dom_eventos.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
+<div style="display:flex;align-items:center;gap:12px;margin:8px 0 16px;"><a class="btn" href="{{ '/assets/zips/dom_eventos.zip' | relative_url }}">Descargar ZIP</a><img src="{{ '/assets/diagrams/dom_eventos.svg' | relative_url }}" alt="Arquitectura del ejemplo" style="max-height:140px;border:1px solid #eee;padding:4px;border-radius:6px;background:#fff;"></div>
 ### Archivos externos de este ejemplo
 **dom_eventos.js**
 ```javascript
