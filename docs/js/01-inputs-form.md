@@ -3,7 +3,7 @@ layout: default
 title: JavaScript - Inputs y formularios
 nav_order: 1
 parent: JavaScript
-permalink: /docs/js/01-inputs-form
+permalink: /docs/js/01-inputs-form/
 ---
 
 # JavaScript - Inputs y formularios

@@ -3,7 +3,7 @@ layout: default
 title: CSS - Colores, tipografías y tamaños
 nav_order: 2
 parent: CSS
-permalink: /docs/css/02-basicos
+permalink: /docs/css/02-basicos/
 ---
 
 # CSS - Colores, tipografías y tamaños

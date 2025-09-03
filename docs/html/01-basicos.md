@@ -3,7 +3,7 @@ layout: default
 title: HTML - Etiquetas básicas
 nav_order: 1
 parent: HTML
-permalink: /docs/html/01-basicos
+permalink: /docs/html/01-basicos/
 ---
 
 # HTML - Etiquetas básicas

@@ -3,7 +3,7 @@ layout: default
 title: HTML - Buenas prácticas
 nav_order: 2
 parent: HTML
-permalink: /docs/html/02-buenas-practicas
+permalink: /docs/html/02-buenas-practicas/
 ---
 
 # HTML - Buenas prácticas

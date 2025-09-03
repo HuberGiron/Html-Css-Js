@@ -3,7 +3,7 @@ layout: default
 title: JavaScript - Mini app
 nav_order: 3
 parent: JavaScript
-permalink: /docs/js/03-mini-app
+permalink: /docs/js/03-mini-app/
 ---
 
 # Mini app: To-Do

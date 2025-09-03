@@ -3,7 +3,7 @@ layout: default
 title: JavaScript - Variables, funciones y eventos
 nav_order: 2
 parent: JavaScript
-permalink: /docs/js/02-funciones-eventos
+permalink: /docs/js/02-funciones-eventos/
 ---
 
 # JavaScript - Variables, funciones y eventos
