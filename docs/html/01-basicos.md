@@ -38,7 +38,7 @@ permalink: /docs/html/01-basicos/
 </head>
 <body>
   <h1>Imagen con alt</h1>
-  <img src="../../images/placeholder.png" alt="Coloca tu imagen" width="240">
+  <img src="ibero.png" alt="Coloca tu imagen" width="240">
 </body>
 </html>
 ```
@@ -55,7 +55,7 @@ permalink: /docs/html/01-basicos/
   <title>Links</title>
 </head>
 <body>
-  <p>Visita <a href="https://developer.mozilla.org/" target="_blank">MDN</a>.</p>
+  <p>Visita <a href="https://ibero.mx/" target="_blank">IBERO</a>.</p>
 </body>
 </html>
 ```
@@ -80,10 +80,14 @@ permalink: /docs/html/01-basicos/
       <th>Edad</th>
     </tr>
     <tr>
-      <td>Ana</td><td>Frontend</td><td>28</td>
+      <td>Ana</td>
+      <td>Frontend</td>
+      <td>28</td>
     </tr>
     <tr>
-      <td>Luis</td><td>Backend</td><td>31</td>
+      <td>Luis</td>
+      <td>Backend</td>
+      <td>31</td>
     </tr>
   </table>
 </body>
@@ -101,9 +105,9 @@ permalink: /docs/html/01-basicos/
   <meta charset="utf-8">
   <title>Atributos</title>
 </head>
-<body bgcolor="#fafafa">
+<body bgcolor="#ef634ae4">
   <p style="color:#E00034; width:60%;">Texto con color y ancho.</p>
-  <img src="../../images/placeholder.png" alt="..." height="120">
+  <img src="ibero.png" alt="..." height="120px">
 </body>
 </html>
 ```
