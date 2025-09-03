@@ -1,9 +1,6 @@
 title: "Html, Css, Js"
 description: Tutorial práctico con ejemplos embebidos usando Just the Docs
 
-# Logo en el encabezado (arriba a la izquierda del sidebar)
-logo: "/assets/img/logotipo.png"
-
 # ✅ Modo recomendado en GitHub Pages:
 remote_theme: just-the-docs/just-the-docs
 plugins:
