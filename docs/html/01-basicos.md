@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: HTML — Etiquetas básicas
+title: HTML - Etiquetas básicas
 nav_order: 1
 parent: HTML
 permalink: /docs/html/01-basicos

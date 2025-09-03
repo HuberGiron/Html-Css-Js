@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: JavaScript — Inputs y formularios
+title: JavaScript - Inputs y formularios
 nav_order: 1
 parent: JavaScript
 permalink: /docs/js/01-inputs-form

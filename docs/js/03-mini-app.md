@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: JavaScript — Mini app
+title: JavaScript - Mini app
 nav_order: 3
 parent: JavaScript
 permalink: /docs/js/03-mini-app

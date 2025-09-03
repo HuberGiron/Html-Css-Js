@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: CSS — Inline vs Internal vs External
+title: CSS - Inline vs Internal vs External
 nav_order: 1
 parent: CSS
 permalink: /docs/css/01-intro
