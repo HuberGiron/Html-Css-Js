@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="213" height="100">
-<rect x="0" y="0" width="213" height="100" fill="#ffffff" stroke="#ddd"/>
-<text x="10" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Estructura: dom_eventos</text>
-<text x="10" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14"></text>
-<text x="10" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">• dom_eventos.html</text>
-<text x="10" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">• dom_eventos.js</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="80">
+<rect x="0" y="0" width="171" height="80" fill="#ffffff" stroke="#ddd"/>
+<text x="10" y="24" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">Estructura:</text>
+<text x="10" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">- dom_eventos.html</text>
+<text x="10" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">- dom_eventos.js</text>
 </svg>
