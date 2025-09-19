@@ -7,7 +7,7 @@ permalink: /docs/js/01-inputs-form/
 ---
 
 # JavaScript - Inputs y formularios
-Un formulario HTML captura datos del usuario y los asocia a **claves** mediante el atributo `name`. Esos datos pueden enviarse a un servidor o procesarse en el navegador con JavaScript. En esta página leerás los valores con JS, sin recargar la página, para ver exactamente qué envía cada campo (este apartado corresponde al archivo actual). :contentReference[oaicite:0]{index=0}
+Un formulario HTML captura datos del usuario y los asocia a **claves** mediante el atributo `name`. Esos datos pueden enviarse a un servidor o procesarse en el navegador con JavaScript. En esta página leerás los valores con JS, sin recargar la página, para ver exactamente qué envía cada campo.
 
 **`name` y el envío (`submit`)**  
 - Cada control debe tener **`name`**: será la **clave** tanto en el envío como en `FormData`.  
